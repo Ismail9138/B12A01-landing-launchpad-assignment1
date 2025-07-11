@@ -165,11 +165,16 @@ header{
     font-weight: 500;
     color: #B3B3B3;
 }
+
+
+.chotobap{
+    display: flex;
+}
 .first-second{
     background-color:#dedeec ;
     margin-left: 200px;
     padding: 24px;
-    margin-right:1200px;
+    margin-right:1000px;
     border-radius: 14px;
 
 }
@@ -206,6 +211,8 @@ header{
 .bigpic{
     margin-top: 20px;
     border-radius: 48px;
+    /* margin-right: 150px;
+    margin-left: 150px; */
 
 }
 
