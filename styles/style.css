@@ -52,6 +52,7 @@ nav{
     border: none;
      border-radius: 10px;
     padding: 12px 36px;
+     font-family: "Inter", sans-serif;
 }
 header{
     background-image: url(../Assets/Hero-bg.png);
@@ -123,6 +124,124 @@ header{
     padding-left: 140px;
     padding-right: 140px;
 }
+
+.feedback{
+    margin-top: 140px;
+    margin-bottom: 140px;
+
+}
+.users-say{
+    font-size: 42px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    color: #252432;
+    text-align: center;
+}
+.feed-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #1E1E1E;
+     font-family: "Inter", sans-serif;
+     margin-top: 20px;
+     margin-bottom: 8px;
+}
+.feed-subtitle{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #1E1E1E;
+    margin-bottom: 24px;
+}
+.div-second{
+    display: flex;
+}
+.name{
+    font-size: 16px;
+    font-weight: 500;
+    color: #757575;
+}
+.date{
+    font-size: 16px;
+    font-weight: 500;
+    color: #B3B3B3;
+}
+.first-second{
+    background-color:#dedeec ;
+    margin-left: 200px;
+    padding: 24px;
+    margin-right:1200px;
+    border-radius: 14px;
+
+}
+.div-second{
+    gap: 10px;
+}
+.user-img{
+    border-radius: 9999px;
+}
+
+.ready-sec{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 70px 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 14px;
+    
+}
+.head{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    color: #000000;
+    margin-bottom: 20px;
+}
+.head2{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+     font-family: "Inter", sans-serif;
+     margin-bottom: 20px;
+}
+.bigpic{
+    margin-top: 20px;
+    border-radius: 48px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .touch-section{
     display: flex;
     align-items: center;
